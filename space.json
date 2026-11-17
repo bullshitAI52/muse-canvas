@@ -1,0 +1,8 @@
+{
+  "entry": "client/dist/index.html",
+  "managedCronJobs": [],
+  "name": "多图工作流画布",
+  "platformVersion": 28,
+  "runtime": "typescript",
+  "slug": "duo-tu-gong-zuo-liu-hua-bu"
+}
